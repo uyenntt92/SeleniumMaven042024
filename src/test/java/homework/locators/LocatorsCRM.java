@@ -8,7 +8,7 @@ public class LocatorsCRM {
     public static String buttonLogin = "//button[normalize-space()='Login']";
     public static String linkForgotPassword = "//a[normalize-space()='Forgot password ?']";
     //dasboard
-    public static String menuCustomers = "//span[normalize-space(),'Customers']";
+    public static String menuCustomers = "//span[normalize-space()='Customers']";
     public static String menuProjects = "//span[normalize-space(),'Projects']";
     public static String menuTasks = "//span[normalize-space(),'Tasks']";
     public static String menuDashboard = "//span[normalize-space(),'Dashboard']";

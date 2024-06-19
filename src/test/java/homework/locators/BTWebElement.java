@@ -1,5 +1,5 @@
 package homework.locators;
-import homework.locators.LocatorsCRM;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -18,7 +18,15 @@ public class BTWebElement {
         driver.findElement(By.xpath(LocatorsCRM.buttonLogin)).click();
         driver.findElement(By.xpath(LocatorsCRM.menuCustomers)).click();
         driver.findElement(By.xpath(LocatorsCRM.buttonAddNewCustomer)).click();
-
+        driver.findElement(By.xpath(LocatorsCRM.inputCompanyName)).sendKeys("Asia");
+        driver.findElement(By.xpath(LocatorsCRM.inputVATNumber)).sendKeys("1234");
+        driver.findElement(By.xpath(LocatorsCRM.inputPhoneNumber)).sendKeys("0986189780");
+        driver.findElement(By.xpath(LocatorsCRM.inputWebsite)).sendKeys("http://ae.asiasoft.biz");
+        driver.findElement(By.xpath(LocatorsCRM.dropdownDefaultLanguage)).click();
+        driver.findElement(By.xpath(LocatorsCRM.optionVietnamese)).click();
+        driver.findElement(By.xpath(LocatorsCRM.inputAddress)).sendKeys("Láng Hạ");
+        driver.findElement(By.xpath(LocatorsCRM.inputCity)).sendKeys("HN");
+        driver.findElement(By.xpath(LocatorsCRM.buttonSave)).click();
         Thread.sleep(2000);
         driver.quit();
 }}

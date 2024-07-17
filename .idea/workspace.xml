@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbcc6a75-9de9-434c-b1b0-3edfa02e1e02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_Locators/XpathTuongdoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_Locators/XpathTuyetdoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElements/Demo3ActionsBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElements/Demo3ActionsCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElements/Demo6ActionsGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai6_WebElements/DemoScreenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai7_Webdriver/DemoCookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai7_Webdriver/DemoWebDriverAdvanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai7_Webdriver/DemoWebDriverBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8_checkbox_Radio_Dropdown/DemoAddCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8_checkbox_Radio_Dropdown/HandleCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8_checkbox_Radio_Dropdown/HandleDropdownDynamic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8_checkbox_Radio_Dropdown/HandleDropdownStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8_checkbox_Radio_Dropdown/HandleMultiCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai8_checkbox_Radio_Dropdown/HandleRadio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/common/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/locators/BTWebDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/anhtester/DemoSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_Locators/DemoSelenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/anhtester/Demo_Xpath_TuongDoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anhtester/Bai5_Locators/Demo_Xpath_TuongDoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework/locators/LocatorsCRM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework/locators/LocatorsCRM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
